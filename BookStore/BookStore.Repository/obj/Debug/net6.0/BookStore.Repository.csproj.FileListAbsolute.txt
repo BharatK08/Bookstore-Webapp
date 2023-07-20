@@ -1,0 +1,15 @@
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\Bharat\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+D:\Bharat\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+D:\Bharat\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+D:\Bharat\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.dll
+D:\Bharat\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.pdb
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+D:\Bharat\BookStore\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll
